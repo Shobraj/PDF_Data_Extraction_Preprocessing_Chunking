@@ -1,2 +1,5 @@
 python-dotenv
 PyPDF2
+azure-search-documents
+openai
+pypdf
